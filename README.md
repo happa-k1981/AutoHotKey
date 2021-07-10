@@ -1,0 +1,2 @@
+# AutoHotKey
+AutoHotKeyの設定
