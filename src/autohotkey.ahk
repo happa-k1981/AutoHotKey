@@ -73,7 +73,14 @@ vk1D up::
   IME_SET(0)
 return
 
+; かなで英数
+vkF2::
+  IME_SET(0)
+return
+
 ; 変換でかな
 vk1C up::
   IME_SET(1)
 return
+
+
