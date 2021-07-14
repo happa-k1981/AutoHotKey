@@ -74,7 +74,7 @@ vk1D up::
 return
 
 ; かなで英数
-vkF2::
+vkF2 up::
   IME_SET(0)
 return
 
